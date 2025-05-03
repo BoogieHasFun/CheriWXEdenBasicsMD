@@ -1,6 +1,6 @@
 ### not finished  <br> still needs images
 
-# Guide by CheriWX, the guide itself is unfinished and is a Google Doc. <br> I didn't create the guide.
+# Guide by CheriWX, the guide itself is unfinished and is a Google Doc. <br> <br> I didn't create the guide.
 
 
 
