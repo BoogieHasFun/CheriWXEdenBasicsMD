@@ -1,5 +1,7 @@
 ### not finished  <br> still needs images
 
+# Guide by CheriWX, the guide itself is unfinished and is a Google Doc. <br> I didn't create the guide.
+
 
 
 Hi my name is Cheri and I would like to share some scripting things I have learned throughout my 3-4 years playing Arma 3. This is not going to get into the complex scripting as I do not want to learn them BUT! This will help any new mission maker who does want to make a semi good story. So here we go. 
